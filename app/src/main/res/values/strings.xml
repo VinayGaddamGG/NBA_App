@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">NBA App</string>
+    <!-- Strings related to login -->
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Log in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="stat_that">Stat that</string>
+    <string name="log_in_to_continue">Log in to continue</string>
+    <string name="don_t_have_an_account_sign_up_here">Don\'t have an account? Sign up here</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="make_an_account_to_continue">Make an account to continue</string>
+    <string name="search_for_a_player">Enter in Player, year format for player stats</string>
+    <string name="player">Player</string>
+    <string name="team">Team</string>
+    <string name="season">Season</string>
+    <string name="search">Search</string>
+
+    <string name="name">Name</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="games_played">Games played</string>
+    <string name="min_per_game">MPG</string>
+    <string name="pts_per_game">PPG</string>
+    <string name="ast_per_game">APG</string>
+    <string name="reb_per_game">RBG</string>
+    <string name="stl_per_game">SPG</string>
+    <string name="blk_per_game">BPG</string>
+    <string name="fg_pct">FG%</string>
+    <string name="fg3_pct">FG3PCT</string>
+    <string name="ft_pct">FT%</string>
+    <string name="turnover_per_game">TOPPG</string>
+
+
+
+
+
+</resources>
